@@ -1,0 +1,21 @@
+body{
+    
+    background-image: url(imagenes/principal.jpg);
+    background-position: center center;
+    background-repeat:no-repeat ;
+    background-size: cover ;
+    background-attachment: fixed;
+}
+.contenedor {
+    max-width: 50%;
+    margin: 0 auto;
+
+}
+.borde {
+    border-bottom: solid 3px;
+    color: blue;
+}
+.imagenPer{
+    display: flex;
+    gap: 20px;
+} 
